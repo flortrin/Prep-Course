@@ -1,0 +1,11 @@
+for
+Se utiliza para repetir un conjunto de instrucciones con un número finito de veces, es decir, que las mismas se van a repetir las veces que nosotros le indiquemos
+
+
+
+&& se utiliza para decir 'y'
+
+ || se uriliza para decir 'o'
+ 
+ ! se utiliza para negar algo
+

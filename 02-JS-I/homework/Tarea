@@ -1,0 +1,27 @@
+Variables: 
+Es un elemento para almacenar y hacer referencia a otro valor. 
+
+Ej. si queremos decir que i es igual a 0 
+utilizariamos 
+var i = o
+
+
+
+Strings 
+Es un hilo de caracteres que empieza y termina ntre comillas. 
+
+
+Funciones (argumentos, return)
+Una función es un conjunto de lineas de codigo que realizan una tarea y pueden retornar algo. Esto nos ayuda a no estar reiterando un codigo varias veces.
+
+El argumento o parametro es algo que nosotros le brindamos a la función para que trabaje con ellos. Es decir, que es un valor que nosotros le damos para que trabaje con ellos.
+Los argumentos los vamos a separar por comas.
+
+El retorno en una funcion es el valor que te va a devolver la misma.
+
+
+Declaraciones if
+Utilizamos el if para una expresión condicional logica. Si esta es verdadera, se ejecutará un bloque de código
+
+Valores booleanos (true, false)
+Un valor booleano respresenta un valor de verdad, es decir, que es true o false. Está expresión puede producir que el valor sea desconocido (unknown) que esta representado por un valor que es nulo.
